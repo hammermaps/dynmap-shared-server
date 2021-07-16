@@ -1,0 +1,17 @@
+{
+  "name": "vendor_name/dynmap",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Lucas",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "nette/database": "2.4.*",
+    "ext-couchbase": "*",
+    "phpfastcache/phpfastcache": "8.0.2"
+  }
+}

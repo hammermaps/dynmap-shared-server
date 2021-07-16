@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="102dbcce-08d4-4384-a435-9bf1f3620f69" name="Local" url="http://localhost/dynmap">
+        <fileTransfer mountedRoot="C:\inetpub\wwwroot\dynmap" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
